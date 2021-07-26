@@ -1,1 +1,1 @@
-# Explainable-AI-in-dematology-disease-classification
+# Explainable-AI-in-dermatology-disease-classification
